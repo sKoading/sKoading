@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on ... Coming soon
-- 🌱 I’m currently learning Javascript and SVG animations & professional React
-- 👯 I’m looking to collaborate on I don't know yet
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Currently available for hire, I live in Switzerland
 - ⚡ Fun fact: I love the coding architecture of everything, chairs and people included
