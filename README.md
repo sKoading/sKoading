@@ -9,3 +9,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: skoading@gmail.com
 - 🧪 Fun fact: I like MaineCoon cats
 
+Contact me
+📧 Email: skoading@gmail.com
+💼 LinkedIn: LinkedIn
+
+Recent Projects 🛠️
+
+COMING 🍔
+VERY 🦩
+SOON 🧟
+
+Skills 🌟
+Programming Languages :
+JAVASCRIPT
+
+Frontend Development :
+HTML5 CSS3 SASS REACT 
+
+Backend Development :
+NODEJS
+
+Other Technologies :
+GIT  GITHUBG LINUS
+
+Languages
+FRENCH ENGLISH GERMAN
