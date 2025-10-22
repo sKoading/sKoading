@@ -1,15 +1,12 @@
-### Hi there 🤓👋
+### Hi there, welcome to our lab 🤓👋🧪
 
-Here are some ideas to get you started:
 
-- 💻 I’m currently working with godotengine, React and ReactNative
-- 🧬 I’m making a game just for fun
-- 🎱 Ask me about the universe
-- 📫 How to reach me: skoading@gmail.com
-- 🧪 Fun fact: I like patterns, MaineCoon cats and cheese!
+💻 We’re building things for you at **TaleArtisan** 🔮
 
-Recent Projects 🛠️
+- 🧬 Experimenting with **Godot**, **Next.js**, **React**, and **React Native**  
+- 📱 Brewing **multidimensional games** — for fun, not fame  
+- 🎱 Ask us about **the universe** — we love connecting the dots  
+- 🐈 Maine Coon enthusiasts | 🧀 Cheese believers | 🔢 Pattern decoders  
 
-COMING 🍔
-VERY 🦩
-SOON 🧟
+#### 🧟 Projects in incubation 🧟  
+... COMING VERY SOON ...
