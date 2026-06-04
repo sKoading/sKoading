@@ -1,6 +1,6 @@
-# Hi there, welcome to our lab 👋🧪🤓
+### Hi there, welcome to our lab 👋🧪🤓
 
-## hey, I'm Sarah 👾
+# hey, I'm Sarah 👾
 
 Founder & fullstack architect at [TaleArtisan](https://taleartisan.com)  
 Building websites, web apps, mobile apps, brand identities and security solutions.  
