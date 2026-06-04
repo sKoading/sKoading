@@ -27,8 +27,3 @@ const sarah = {
 ⬡ &nbsp;SEO & visibility  
 ⬡ &nbsp;Brand design & visual identity  
 ⬡ &nbsp;Security & maintenance  
-
----
-
-→ &nbsp;[taleartisan.com](https://taleartisan.com)  
-→ &nbsp;hello@taleartisan.com
